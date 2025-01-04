@@ -10,11 +10,14 @@ body{
 #profile{
     background-color: white;
     border-radius: 10px;
-    width: 350px;
+    width: 320px;
     text-align: center;
     padding: 50px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-;
+}
+
+p{
+    color: grey;
 }
 
 img{
@@ -32,23 +35,23 @@ img{
 
 h1{
     margin-top: 10px;
-    margin-bottom: -15px;
+    margin-bottom: -20px;
     padding-bottom: 0px;
 }
 
 #social{
     margin-top: 20px;
     border-top: 1px solid rgb(187, 187, 187);
-    padding-top: 10PX;
+    padding-top: 20PX;
     color: red;
 }
 
 a{
     padding: 10px;
     text-decoration: none;
-    color: black;
+    color: red;
 }
 
 a:hover{
-    color: red;
+    color: black;
 }
